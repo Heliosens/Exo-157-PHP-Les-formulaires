@@ -4,7 +4,3 @@
 
 echo "Bienvenue ". $_POST['fname'];
 
-
-
-
-
